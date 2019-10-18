@@ -1,0 +1,25 @@
+.wrapper{
+    margin-top: 20px;
+    border: 2px solid blue;
+    width: 500px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.divider{
+    width:59%;
+    height:auto;
+    display:inline-block;
+}
+
+.author{
+    color: blue;
+    padding-left: 30px;
+    font-style: italic;
+}
+.err{
+    color: red;
+    padding: 0 5px;
+    font-size: 14px;
+
+}
